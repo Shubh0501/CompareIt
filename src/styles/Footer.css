@@ -1,0 +1,42 @@
+.footer {
+    background-color: #e3f2fd;
+}
+
+.footer-container {
+    margin: 20px 20px 0px 20px;
+    text-align: left;
+    padding-top: 30px;
+}
+
+.organisation-div {
+    text-align: left;
+    font-size: x-large;
+    font-weight: 500;
+}
+
+.links_container {
+    display: inline-flex;
+    width: 100%;
+}
+
+.references-link {
+    text-decoration: none;
+    color: black;
+}
+
+.links-container p {
+    margin: 0px;
+    font-size: large;
+    padding-bottom: 30px;
+}
+
+.social-media {
+    height: 40px;
+    width: 40px;
+    margin: 5px 10px 5px 10px;
+    transition: transform .5s ease;
+}
+
+.social-media:hover {
+    transform: scale(1.3);
+}

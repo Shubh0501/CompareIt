@@ -1,0 +1,28 @@
+.header-container {
+    background-color: #e3f2fd;
+}
+
+.logo-container {
+    height: 45px;
+    width: 45px;
+    pointer-events: none;
+    margin-left: 20px; 
+}
+
+.app-logo {
+    height: 40px;
+    width: 40px;
+    pointer-events: none;  
+}
+
+.brand-container {
+    text-align: center;
+    font-size: xx-large;
+    align-self: center;
+    margin: auto;
+    font-weight: bold;
+}
+
+.brand-container p {
+    margin: auto;
+}

@@ -1,0 +1,34 @@
+.navbar-div {
+    background-color: #e3f2fd !important;
+}
+
+.nav-item-container {
+    width: max-content;
+}
+
+.nav-item {
+    
+    text-decoration: none;
+}
+
+.link-text {
+    margin: 0px 15px 0px 15px;
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+
+.link-text:hover {
+    color: darkblue;
+}
+
+.login-container {
+    align-self: flex-end;
+}
+
+.link-text-auth {
+    margin: 0px 5px 0px 5px;
+    text-decoration: none;
+    color: black;
+    font-size: small;
+}
