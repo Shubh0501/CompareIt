@@ -2,7 +2,7 @@
 
 A Single Page Application designed to compare 2 products with each other using React.js. The project currently holds single dummy data, which is shown in case of any selection.
 However, Actions with all parameters are created. User just have to give the route for their own API and they can get started with fetching live
-data from the database. The API files for this application can be found at [https://github.com/Shubh0501/CompareItAPI](Shubh0501/CompareItAPI)
+data from the database. The API files for this application can be found at [Shubh0501/CompareItAPI](https://github.com/Shubh0501/CompareItAPI)
 
 ## Available Scripts
 
