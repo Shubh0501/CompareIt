@@ -4,6 +4,13 @@ A Single Page Application designed to compare 2 products with each other using R
 However, Actions with all parameters are created. User just have to give the route for their own API and they can get started with fetching live
 data from the database. The API files for this application can be found at [Shubh0501/CompareItAPI](https://github.com/Shubh0501/CompareItAPI)
 
+## How to Run
+1. Clone this repository or download the .zip file from top right options. Extract the files in a folder.
+2. Download [Node.js](https://nodejs.org/en/download/) in your system from it's website and install that in your system.
+3. After installation, open your terminal and type `node -v` and `npm -v` to see the versions of these.
+4. Go to your folder where you have extracted these files in terminal and run the codes `npm install` then `npm start`
+5. The website will open in your browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
